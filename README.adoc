@@ -1,0 +1,15 @@
+:includedir: ./lessons
+
+= Introduction
+
+The goal of this trainig is to have an overview about Ansible Engine based in the latest https://docs.ansible.com/ansible/latest/user_guide/index.html#getting-started[official documentation] 
+
+
+= Environment
+
+To have fun with Ansible, this training uses https://kcli.readthedocs.io/en/latest/[kcli] to deploy the environment on your own system.
+
+
+== Lessons
+
+include::{includedir}/ansible-filters.adoc[Lesson X]
